@@ -104,6 +104,10 @@ header .search {
     font-weight: 400;
 }
 
+.search input:placeholder{
+    color:#FFF;
+}
+
 .input-wrapper button {
     display: flex;
     justify-content: center;
